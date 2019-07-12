@@ -47,6 +47,14 @@
             "technologies": ["HTML", "CSS", "JavaScript", "React"],
             "live_link": "https://react-gallery-app.netlify.com",
             "image_urls": ["../images/project 7/project 7 main page.png", "../images/project 7/Screenshot (36).png", "../images/project 7/Screenshot (34).png", "../images/project 7/Screenshot (35).png"]
+        },
+        {
+            "id": 6,
+            "project_name": "SQL Library Manager",
+            "description": "asrgcsdr gvtsgtgtsdgt ferdref sergf",
+            "technologies": ["HTML", "CSS", "JavaScript", "React"],
+            "live_link": "https://react-gallery-app.netlify.com",
+            "image_urls": ["../images/project 8/project 8 main page.png", "../images/project 8/Screenshot (41).png", "../images/project 7/Screenshot (34).png", "../images/project 7/Screenshot (35).png"]
         }
     ]
 }
