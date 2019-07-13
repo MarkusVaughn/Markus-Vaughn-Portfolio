@@ -20,7 +20,7 @@
             "id": 2,
             "project_name": "Interactive Form",
             "description": "People use forms to collect information from users for many websites and applications. For this project, I used my skills to enhance a form so that it’s engaging, interactive, and easy to use.  I also made the form more user-friendly by providing helpful error messages when the user enters invalid information into the form fields.",
-            "technologies": ["HTML", "CSS", "JavaScript"],
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "/live/3",
             "image_urls": ["../images/project 3/project 3 index page.png" , "../images/project 3/Screenshot (18).png", "../images/project 3/Screenshot (19).png", "../images/project 3/Screenshot (21).png"]
         }, 
@@ -36,7 +36,7 @@
             "id": 4,
             "project_name": "Public API Requests",
             "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that I can access and display on my own web pages. Using JavaScript, I created an employee directory by communicating with a third-party API (Application Programming Interface).",
-            "technologies": ["HTML", "CSS", "JavaScript"],
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "API"],
             "live_link": "/live/5",
             "image_urls": ["../images/project 5/project 5 index page.png", "../images/project 5/Screenshot (25).png", "../images/project 5/Screenshot (26).png", "../images/project 5/Screenshot (28).png"]
         },
@@ -52,8 +52,8 @@
             "id": 6,
             "project_name": "SQL Library Manager",
             "description": "asrgcsdr gvtsgtgtsdgt ferdref sergf",
-            "technologies": ["HTML", "CSS", "JavaScript", "React"],
-            "live_link": "https://react-gallery-app.netlify.com",
+            "technologies": ["HTML", "CSS", "JavaScript", "Express", "Pug", "Node.js"],
+            "live_link": "https://sql-library-manager2.herokuapp.com/books",
             "image_urls": ["../images/project 8/project 8 main page.png", "../images/project 8/Screenshot (41).png", "../images/project 8/Screenshot (43).png", "../images/project 8/Screenshot (45).png"]
         }
     ]
