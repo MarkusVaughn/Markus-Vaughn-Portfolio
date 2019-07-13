@@ -51,7 +51,7 @@
         {
             "id": 6,
             "project_name": "SQL Library Manager",
-            "description": "asrgcsdr gvtsgtgtsdgt ferdref sergf",
+            "description": "Working with databases — storing, retrieving, updating and deleting information — is an important software developer skill. In this project, I created a web application for listing, adding, updating, and deleting books in a library application, using JavaScript, Node.js, Express, Pug, and the SQL ORM Sequelize.",
             "technologies": ["HTML", "CSS", "JavaScript", "Express", "Pug", "Node.js", "Sequelize", "SQLite"],
             "live_link": "https://sql-library-manager2.herokuapp.com/books",
             "image_urls": ["../images/project 8/project 8 main page.png", "../images/project 8/Screenshot (41).png", "../images/project 8/Screenshot (43).png", "../images/project 8/Screenshot (45).png"]
