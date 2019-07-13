@@ -52,7 +52,7 @@
             "id": 6,
             "project_name": "SQL Library Manager",
             "description": "asrgcsdr gvtsgtgtsdgt ferdref sergf",
-            "technologies": ["HTML", "CSS", "JavaScript", "Express", "Pug", "Node.js"],
+            "technologies": ["HTML", "CSS", "JavaScript", "Express", "Pug", "Node.js", "Sequelize", "SQLite"],
             "live_link": "https://sql-library-manager2.herokuapp.com/books",
             "image_urls": ["../images/project 8/project 8 main page.png", "../images/project 8/Screenshot (41).png", "../images/project 8/Screenshot (43).png", "../images/project 8/Screenshot (45).png"]
         }
